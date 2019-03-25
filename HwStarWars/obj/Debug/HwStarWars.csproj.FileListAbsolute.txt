@@ -1,0 +1,11 @@
+C:\Users\ТурмаханД\source\repos\HwStarWars\HwStarWars\bin\Debug\HwStarWars.exe.config
+C:\Users\ТурмаханД\source\repos\HwStarWars\HwStarWars\bin\Debug\HwStarWars.exe
+C:\Users\ТурмаханД\source\repos\HwStarWars\HwStarWars\bin\Debug\HwStarWars.pdb
+C:\Users\ТурмаханД\source\repos\HwStarWars\HwStarWars\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ТурмаханД\source\repos\HwStarWars\HwStarWars\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\ТурмаханД\source\repos\HwStarWars\HwStarWars\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ТурмаханД\source\repos\HwStarWars\HwStarWars\obj\Debug\HwStarWars.csprojAssemblyReference.cache
+C:\Users\ТурмаханД\source\repos\HwStarWars\HwStarWars\obj\Debug\HwStarWars.csproj.CoreCompileInputs.cache
+C:\Users\ТурмаханД\source\repos\HwStarWars\HwStarWars\obj\Debug\HwStarWars.csproj.CopyComplete
+C:\Users\ТурмаханД\source\repos\HwStarWars\HwStarWars\obj\Debug\HwStarWars.exe
+C:\Users\ТурмаханД\source\repos\HwStarWars\HwStarWars\obj\Debug\HwStarWars.pdb

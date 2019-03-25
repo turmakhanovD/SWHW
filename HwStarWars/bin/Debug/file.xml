@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<People xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>27</Id>
+  <Name>Ackbar</Name>
+  <Height>180</Height>
+  <Mass>83</Mass>
+  <Hair_Color>none</Hair_Color>
+  <Skin_Color>brown mottle</Skin_Color>
+  <Eye_Color>orange</Eye_Color>
+  <Birth_Year>41BBY</Birth_Year>
+  <Gender>male</Gender>
+  <HomeWorld>https://swapi.co/api/planets/31/</HomeWorld>
+  <Films>
+    <string>https://swapi.co/api/films/3/</string>
+    <string>https://swapi.co/api/films/7/</string>
+  </Films>
+  <Species>
+    <string>https://swapi.co/api/species/8/</string>
+  </Species>
+  <Vehicles />
+  <Starships />
+  <Created>2014-12-18T11:07:50.584Z</Created>
+  <Edited>2014-12-20T21:17:50.362Z</Edited>
+  <Url>https://swapi.co/api/people/27/</Url>
+</People>
