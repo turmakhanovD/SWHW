@@ -47,31 +47,13 @@ namespace HwStarWars
 
             XmlSerializer formatter = new XmlSerializer(typeof(People));
 
-                XmlTextReader reader = new XmlTextReader("file.xml");
-            while (reader.Read())
-            {
-                switch (reader.NodeType)
-                {
-                    case XmlNodeType.Element: // Узел является элементом.
-                       if(reader.Name == "Id")
-                            Console.WriteLine(reader.Name);
-                        break;
-                    case XmlNodeType.Text: // Вывести текст в каждом элементе.
-                        if (reader.Name == "Id")
-                            Console.WriteLine( reader.GetAttribute(1));
-                        break;
-                    case XmlNodeType.EndElement: // Вывести конец элемента.
-                        Console.Write("</" + reader.Name);
-                        Console.WriteLine(">");
-                        break;
-                }
-            }
-            reader.Close();
             using (FileStream fs = new FileStream("file.xml", FileMode.OpenOrCreate))
             {
-
-                  //  formatter.Serialize(fs, people);
-
+                  
+                if(people.Id != id)
+                    formatter.Serialize(fs, people);
+                else
+                    Console.WriteLine($"{people.Id}.{people.Name}");
 
                 
                 Console.ReadLine();
